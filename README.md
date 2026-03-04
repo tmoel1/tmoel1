@@ -21,31 +21,37 @@ My name's Troy, I'm an active student at 42 Lausanne and itching to get into the
     <img
       src="https://img.shields.io/badge/📦%20Minishell-shell-005cc5?style=for-the-badge&logo=github&logoColor=white"
       alt="Minishell"
-      width="300"
+      width="490"
     />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <br><br>
   <a href="https://github.com/tmoel1/Cub3D">
     <img
       src="https://img.shields.io/badge/📦%20Cub3D-3D_engine-6f42c1?style=for-the-badge&logo=github&logoColor=white"
       alt="Cub3D"
-      width="300"
+      width="520"
     />
-  
   </a>
-</p>
-
-<br>
-
-### ...and what I've been working on recently:
-<br>
-<p align="center">
+  <br><br>
   <a href="https://github.com/tmoel1/CPP">
     <img
       src="https://img.shields.io/badge/Bootcamp-CPP-B19CD9?style=for-the-badge&logo=cplusplus&logoColor=white"
       alt="CPP"
-      width="240"
+      width="400"
     />
+  </a>
+  <br><br>
+  <a href="https://github.com/tmoel1/Transcendence">
+    <img
+      src="https://img.shields.io/badge/📦%20Transcendence-Full_Stack-6f42c1?style=for-the-badge&logo=github&logoColor=white"
+      alt="Transcendence"
+      width="730"
+    />
+  </a>
 </p>
+
+
+
 <br>
 <br>
 
